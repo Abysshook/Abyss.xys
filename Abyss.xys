@@ -1,5 +1,5 @@
 -- starring
 print("⚙️ часть LI Huh загружается...")
-print("Amongus.hook discord.gg!!")
-loadstring(request({Url='https://raw.githubusercontent.com/kava634/Swift/refs/heads/main/Amongus.hook'; Method='GET'}).Body)();
 print("✅ скрипт загружен Amongus.hook!")
+loadstring(request({Url='https://raw.githubusercontent.com/kava634/Swift/refs/heads/main/Amongus.hook'; Method='GET'}).Body)();
+
